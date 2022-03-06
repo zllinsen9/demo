@@ -1,0 +1,7 @@
+name: admin
+type: system
+rules:
+  - verbs:
+      - "*"
+    resources:
+      - "*"
