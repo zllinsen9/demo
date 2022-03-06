@@ -1,9 +1,9 @@
 server:
   port: 8090
-  
+
 spring:
   application:
-    name: zadig_demo
+    name: demo
   thymeleaf:
     prefix: classpath:/templates/
 
